@@ -13,5 +13,5 @@ This project demonstrates a machine learning pipeline to classify images of dogs
 - scikit-learn
 - joblib
 - PIL (Pillow)
-
+<h3> just make sure to change path files in app.py and main.py </h3>
 <h2>Run command for streamlit app is <b>streamlit run app.py</b></h2>
